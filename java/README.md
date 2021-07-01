@@ -1,4 +1,12 @@
 # Youtube Challenge - Java
+
+I coded my solutions in Java on IntelliJ. Definitely was rushed so not optimal code but managed to complete all the tests and the parts! :) If I had time I will refactor the code to improve performance, readability and speed.
+
+
+
+
+
+Below is not me README file.
 The Java Youtube Challenge uses Java 11, Junit 5.4 and Maven.
 
 NOTE: **Please do not edit videos.txt as it will cause tests to break. There is no need to modify this file to complete this challenge.**
